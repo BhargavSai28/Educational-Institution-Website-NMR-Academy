@@ -1,0 +1,21 @@
+frontend
+website
+education
+responsive-design
+html
+css
+javascript
+ui-ux
+web-development
+bootstrap
+tailwindcss
+portfolio-project
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
